@@ -3,14 +3,14 @@
 Just for fun xD
 
 Contents:
-EDA
-Logistic_Regression
+1. EDA
+1. Logistic_Regression
 
 TODO:
-Churn_Prediction_AWS
-Deep_Learning
-Fine_Tuning
-Flask
-ML
-Recommendation_Engines
-Trees_and_Forests
+1. Churn_Prediction_AWS
+1. Deep_Learning
+1. Fine_Tuning
+1. Flask
+1. ML
+1. Recommendation_Engines
+1. Trees_and_Forests
